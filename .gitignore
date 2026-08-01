@@ -1,0 +1,9 @@
+venv/
+db/*.db
+logs/*.csv
+models/*.task
+models/*.h5
+__pycache__/
+*.pyc
+.streamlit/
+token.txt

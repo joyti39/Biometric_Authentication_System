@@ -1,1 +1,2 @@
 # Biometric_Authentication_System
+A Python-based biometric authentication system that combines face recognition with real-time liveness detection to prevent spoofing attacks. Beyond simple face matching, the system requires the user to blink naturally within a time window and checks for screen/photo bezel edges — blocking both static photo attacks and phone/video replay attacks. Built with face_recognition (dlib), OpenCV, and MediaPipe, with a Streamlit-based web UI for enrollment, verification, and authentication logging.
